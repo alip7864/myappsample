@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-error logsi ma parvez
-=======
+
+error log parvez
 error logs
->>>>>>> origin/master
