@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 error logsi ma parvez
+=======
+error logs
+>>>>>>> origin/master
